@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "username": "Yestha",
+        "password": "$2y$12$lFXyg6V4kuRKz4T9SbTbeOqPMhxkaXR0obujO2g.VcKmlVxDIPZRm",
+        "fullname": "Yestha Yunior Wongkar, S.Tr.Kom",
+        "phone": "08123456789",
+        "email": "yestha@netmaintain.com",
+        "role": "admin",
+        "createdAt": "2026-01-01"
+    }
+]
